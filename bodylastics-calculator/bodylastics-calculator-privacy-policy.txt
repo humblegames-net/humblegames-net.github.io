@@ -23,6 +23,23 @@ Link to privacy policy of third party service providers used by the app
 
 
 ********************************************
+## Data safety
+********************************************
+
+--------------------------------------------
+### No data shared with third parties
+--------------------------------------------
+
+- This app doesn't share user data with other companies or organizations.
+
+--------------------------------------------
+### No data collected
+--------------------------------------------
+
+- This app doesn’t collect user data.
+
+
+********************************************
 ## Log Data
 ********************************************
 
